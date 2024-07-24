@@ -1,5 +1,3 @@
-# Github V2
-
 ### **Conteúdo Inicial dos Arquivos:**
 
 ```other
